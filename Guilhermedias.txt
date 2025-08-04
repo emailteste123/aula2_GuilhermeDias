@@ -1,4 +1,7 @@
-Nome: Guilherme
 Sobre nome:Dias
+
+Nome: Guilherme
+
+Filme favorito: filme
+
 CPF:010.010.101.01-01
-Filme favorito: ***** ** ****
